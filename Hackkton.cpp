@@ -18,7 +18,7 @@ int main()
 		printf("5. them gia tri vao cuoi mang:\n");
 		printf("6.Sap xep mang theo thu tu giam dan \n");
 		printf("7.Cho nguoi dang nhap vao mot phan tu, tim kiem xem phan tu đo co ton tai trong mang hay khong \n");
-		printf("8.Tim phan tu:");
+		printf("8.Tim phan tu:\n");
 		printf("9.In ra toan bo so nguyen to trong mang.\n");
 		printf("10 .Sap xep mang theo thu tu tang dan.\n");
 		printf("11.Thoat.\n");
